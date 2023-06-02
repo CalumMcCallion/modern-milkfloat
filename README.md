@@ -1,4 +1,4 @@
-## React Business Landing Page
+## React Business Landing Page - Customised from Original
 
 This is a business landing page built with React. It features a modern and stylish design to showcase your business and attract potential clients. The page includes various sections such as Navbar, Hero, Stats, Business, Billing, CardDeal, Testimonials, Clients, CTA, and Footer.
 
